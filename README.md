@@ -1,1 +1,1 @@
-# javascript-submission
+# Ajax-submission
